@@ -1,0 +1,13 @@
+# 编译缓存（可重建，不入库）
+build/
+**/build/module-cache/
+**/build/clang-module-cache/
+**/build/*.pcm
+.DS_Store
+
+# 外接盘拷入的 AppleDouble 资源叉残留
+._*
+# 本地代码备份（非交付物）
+*.bak
+# 真机自检截图（一次性验证产物，不属于源码）
+verify-*.png

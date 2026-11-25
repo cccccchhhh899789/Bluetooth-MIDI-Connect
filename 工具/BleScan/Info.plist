@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key>
+    <string>BleScan</string>
+    <key>CFBundleDisplayName</key>
+    <string>BleScan</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.dsh.blescan</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleExecutable</key>
+    <string>BleScan</string>
+    <key>NSBluetoothAlwaysUsage</key>
+    <string>BleScan 阳性对照：扫描 BLE 广播外设以验证 CoreBluetooth 可达性</string>
+    <key>NSBluetoothPeripheralUsage</key>
+    <string>BleScan 阳性对照：扫描 BLE 广播外设以验证 CoreBluetooth 可达性</string>
+    <key>NSHumanReadableDescription</key>
+    <string>BLE 广播扫描阳性对照工具</string>
+</dict>
+</plist>
